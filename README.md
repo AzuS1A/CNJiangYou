@@ -31,7 +31,7 @@ BBC在致电当地公安局时被告知“外国记者的提问受到限制”�
 事发当下的热映电影《南京照相馆》讲述了南京大屠杀期间中国平民通过照片胶卷冒险揭露日军暴行的故事，而部分网民则借此讽刺了中国政府暴力执法、封锁舆论的行径，并将事件代称为“江油照相馆”。
 
 **Youtube完整纪录片:**
-[**点击此处查看(需要使用VPN)**](https://www.youtube.com/watch?v=7qjZ89NSwYs&t=27s)
+# [**点击此处查看(需要使用VPN)**](https://www.youtube.com/watch?v=7qjZ89NSwYs&t=27s)
 <p>
 <details>
 <summary><big><u><span style="color:yellow">点击展开下载VPN软件(附保姆级教程)✈</span></u></big></summary>
