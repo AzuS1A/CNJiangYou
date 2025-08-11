@@ -1,2 +1,131 @@
 # CNJiangYou
 国内有关2584江油事件的信息
+
+<div align="center">
+
+# <span style="color:rgb(255,40,50)">四川江油示威活动(附VPN软件)</span>
+(取自维基百科)<p>
+<big>**事件概述**</big>
+<p>
+2025年7月22日，四川省江油市发生一起未成年人校园欺凌事件。当天，一名14岁女生在一座废弃楼房内遭三名女同学辱骂、威胁并长时间殴打，整个过程持续约四小时，并被拍摄视频上传网络，施暴者在视频中声称曾“多次进派出所但很快出来”。这一事件触发舆论广泛关注，质疑校园欺凌和未成年人保护机制。
+<p>
+受害者父母当天报警并多次前往学校维权，警方直到8月2日才将涉案学生传唤，8月4日发布官方通报。警方称施暴者造成“轻微伤”，两名满14岁者被处行政拘留并送往“专门学校矫治教育”，其余行为人则受“批评教育”。公众认为处理过于轻缓，引发强烈不满。<small><u>以上内容为未封锁信息</u></small>
+<p><span style="color:rgb(255,40,50)">
+8月4日，当地爆发大规模示威，超过千名市民走上街头，聚集于江油市政府大楼周边，提出“还孩子真相”“严惩凶手”“还我民主”等口号，高唱国歌抗议。<u>警方随后设置封锁、逮捕示威者，用辣椒水、催泪弹等强制清场，导致警民冲突并有人受伤拘捕。</u>
+后续还出现针对施暴者家庭“有后台”的谣言传言，当地公安澄清称涉案家庭背景普通，并处罚散布谣言者。媒体与学者认为，江油事件之所以引发全国关注，不仅因其“规模罕见”，更反映了公众对“基层治理失效”和“法律公平的深层失望”。
+</span>
+
+![图片1](https://upload.wikimedia.org/wikipedia/commons/8/80/Weibo_screenshot_%282025-08-05%29.png)
+<p>
+
+*<u>抗议发生后，相关话题的关键字迅速被当局封锁</u>*<p>
+<small>图片引用维基百科图片，若无法查看请开启VPN</small>
+
+# 审查
+
+抗议发生后，相关话题的关键字迅速被当局封锁
+警民冲突发生后，“江油”话题一度登上新浪微博热搜榜的第二名，但在8月5日上午7时许，该话题于10分钟内迅速跌出热搜榜；而DeepSeek支持的微博“AI智搜”也对“江油警察”等相关敏感字眼显示“思考中断”。<u>在中国大陆，由于当局对言论的严厉管控，关于这次抗议活动的报导很少，社交平台上的相关示威视频陆续被删除，许多官媒的文章也关闭了评论区，人们开始使用“酱油”等代称讨论该事件。</u>
+
+BBC在致电当地公安局时被告知“外国记者的提问受到限制”，示威现场目击者也不愿透露姓名，因为据报当地警察敦促当地人不要谈论此事。江油市政府附近商店的一名女店员对英国《卫报》表示，她被禁止谈论此事件，因为“警察已经给了我们口头警告”。
+
+事发当下的热映电影《南京照相馆》讲述了南京大屠杀期间中国平民通过照片胶卷冒险揭露日军暴行的故事，而部分网民则借此讽刺了中国政府暴力执法、封锁舆论的行径，并将事件代称为“江油照相馆”。
+
+**Youtube完整纪录片:**
+[**点击此处查看(需要使用VPN)**](https://www.youtube.com/watch?v=7qjZ89NSwYs&t=27s)
+<p>
+<details>
+<summary><big><u><span style="color:yellow">点击展开下载VPN软件(附保姆级教程)✈</span></u></big></summary>
+
+<span style="color:yellow">**可用临时vpn软件**</span>
+<p>
+
+<span style="color:red">**!!!点击下载软件链接后第一次可能无法连接，请刷新网页再次链接!!!**</span>
+
+
+[<u><big>*点击直接下载VPN软件*</big></u>](https://www.lvcha.in/download/lvcha_263_abilvcha.apk)
+
+<u>使用教程:下载软件后安装打开，**同意所有请求的权限**，选择下方"主页"，找到上方"VPN未连接"字样，点击右侧"点击开启"按钮，出现"VPN"已连接后，找到下方地区<p>例如:</u>
+
+
+<div style="display:flex; align-items:center; border:1px solid #ddd; padding:8px; border-radius:8px; width:320px; background-color:#f9f9f9;">
+  <img src="https://www.emojiall.com/images/60/twitter/1f1fa-1f1f8.png" alt="美国" width="60" style="margin-right:10px;">
+  <div style="display:flex; flex-direction:column; justify-content:space-between; height:60px; flex:1;">
+    <div style="font-size:18px; font-weight:bold; color:#1E90FF;">美国</div>
+    <div style="font-size:14px; color:gray;">
+      当前为：<span style="color:green;">安全模式</span> - 手动选择
+    </div>
+  </div>
+</div>
+<u>点击这个控件会出现如下页面：</u>
+<p>
+
+<!-- 顶部模式切换 -->
+<div style="background-color:#E6F0FF; padding:16px; border-radius:12px; max-width:400px; font-family:sans-serif;">
+  <!-- 模式按钮 -->
+  <div style="display:flex; gap:10px; justify-content:center; margin-bottom:12px;">
+    <div style="flex:1; background-color:#1E90FF; color:white; border-radius:10px; text-align:center; padding:10px;">
+      <div style="font-size:14px;">安全模式</div>
+      <div style="font-size:12px;">全局代理</div>
+    </div>
+    <div style="flex:1; background-color:#ccc; color:#555; border-radius:10px; text-align:center; padding:10px;">
+      <div style="font-size:14px;">游戏模式</div>
+      <div style="font-size:12px;">分应用代理</div>
+    </div>
+    <div style="flex:1; background-color:#ccc; color:#555; border-radius:10px; text-align:center; padding:10px;">
+      <div style="font-size:14px;">极速模式</div>
+      <div style="font-size:12px;">仅加速海外</div>
+    </div>
+  </div>
+  <!-- 连通性测试 -->
+  <div style="background-color:white; border-radius:8px; padding:8px; font-size:14px; margin-bottom:8px;">
+    🌐 连通性测试
+  </div>
+  <!-- 免费会员节点 -->
+  <div style="background-color:white; border-radius:8px; padding:8px;">
+    <div style="font-size:14px; font-weight:bold; margin-bottom:8px;">免费会员节点</div>
+    <!-- 节点列表 -->
+    <div style="display:flex; align-items:center; padding:6px 0; border-bottom:1px solid #eee;">
+      <div style="flex:1;">
+        自动匹配当前最快网络<br>
+        <span style="font-size:12px; color:gray;">当前自动匹配最快地区为：美国</span>
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; padding:6px 0; border-bottom:1px solid #eee;">
+      <img src="https://www.emojiall.com/images/60/twitter/1f1fa-1f1f8.png" width="24" style="margin-right:8px;">
+      <div style="flex:1;">美国</div>
+      <span style="color:red; font-size:12px;">150毫秒</span>
+    </div>
+    <div style="display:flex; align-items:center; padding:6px 0; border-bottom:1px solid #eee;">
+      <img src="https://www.emojiall.com/images/60/twitter/1f1ed-1f1f0.png" width="24" style="margin-right:8px;">
+      <div style="flex:1;">中国香港</div>
+      <span style="color:green; font-size:12px;">100毫秒</span>
+    </div>
+    <div style="display:flex; align-items:center; padding:6px 0; border-bottom:1px solid #eee;">
+      <img src="https://www.emojiall.com/images/60/twitter/1f1f9-1f1fc.png" width="24" style="margin-right:8px;">
+      <div style="flex:1;">中国台湾</div>
+      <span style="color:green; font-size:12px;">120 毫秒</span>
+    </div>
+    <div style="display:flex; align-items:center; padding:6px 0; border-bottom:1px solid #eee;">
+      <img src="https://www.emojiall.com/images/60/twitter/1f1ef-1f1f5.png" width="24" style="margin-right:8px;">
+      <div style="flex:1;">日本</div>
+      <span style="color:green; font-size:12px;">125 毫秒</span>
+    </div>
+    <div style="display:flex; align-items:center; padding:6px 0;">
+      <img src="https://www.emojiall.com/images/60/twitter/1f1f0-1f1f7.png" width="24" style="margin-right:8px;">
+      <div style="flex:1;">韩国</div>
+      <span style="color:green; font-size:12px;">120 毫秒</span>
+    </div>
+  </div>
+</div>
+
+<u>点击"连通性测试"后，选择延迟最低(即毫秒前的数字最小的一个选项)后退出软件(**不能杀后台不能杀后台不能杀后台**)即已接入国际互联网，可访问[Youtube](https://www.youtube.com/),[推特](https://x.com/),[谷歌](https://www.google.com.hk/)等国际网站</u>
+</details>
+</div>
+
+### 有关更多详细信息 请开启VPN后浏览器搜索查询
+
+[![自定义链接1](https://img.shields.io/badge/查看更多有关信息-维基百科-00c4ff?style=for-the-badge&logo=rocket)](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8?utm_source=chatgpt.com)
+
+[![自定义链接2](https://img.shields.io/badge/相似事件-八九民运--维基百科-00c4ff?style=for-the-badge&logo=rocket)](https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6)
+
+</div>
